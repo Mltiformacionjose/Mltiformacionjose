@@ -70,6 +70,8 @@ A modern web application designed to help Warframe players manage their collecti
 - Modern responsive UI
 - Continuous development
 
+### Technologies I've Worked With
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,git,github,vscode,figma,postman" />
 </p>
